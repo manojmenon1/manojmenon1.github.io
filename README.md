@@ -5,11 +5,11 @@
 **Bachelor of Technology in Mechanical Engineering**, First Class (3.2/4.0), NSS College of Eng., University of Calicut | 1997
 
 ### Certification Courses
-Post Graduate Program in Data Science and Business Analytics, University of Texas at Austin (2023) (grade A+) 
+**Post Graduate Program in Data Science and Business Analytics**, University of Texas at Austin (2023) (grade A+) 
 https://www.mygreatlearning.com/certificate/XRVEMVHP
 https://la.utexas.edu/texasexeced/digitalVerification.html?key=tRMmf
 
-Microsoft AI Professional Program (AI to Open AI), Great Learning (February 2025) 
+**Microsoft AI Professional Program (AI to Open AI)**, Great Learning (February 2025) 
 https://www.mygreatlearning.com/certificate/NAYGKQMO
 
 ### Work Experience
