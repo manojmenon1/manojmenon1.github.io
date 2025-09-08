@@ -1,11 +1,11 @@
 # Senior Data Management Analyst / Machine Learning Engineer
 
-### Education
-**Master of Science in Computer Science**, GPA 3.9/4.0, Southern University and A&M College, Louisiana | 2004
+## Education
+**Master of Science in Computer Science**, GPA 3.9/4.0, Southern University and A&M College, Louisiana, 2004
 
-**Bachelor of Technology in Mechanical Engineering**, First Class (3.2/4.0), NSS College of Eng., University of Calicut | 1997
+**Bachelor of Technology in Mechanical Engineering**, First Class (3.2/4.0), NSS College of Eng., University of Calicut, 1997
 
-### Certification Courses
+## Certification Courses
 **Post Graduate Program in Data Science and Business Analytics**, University of Texas at Austin (2023) (grade A+) 
 https://www.mygreatlearning.com/certificate/XRVEMVHP
 https://la.utexas.edu/texasexeced/digitalVerification.html?key=tRMmf
@@ -13,7 +13,7 @@ https://la.utexas.edu/texasexeced/digitalVerification.html?key=tRMmf
 **Microsoft AI Professional Program (AI to Open AI)**, Great Learning (February 2025) 
 https://www.mygreatlearning.com/certificate/NAYGKQMO
 
-### Work Experience
+## Work Experience
 **Senior Data Management Analyst @ Wells Fargo, Charlotte, NC (03/2019 - to present)**
 At Wells Fargo led a high-impact initiative within the Enterprise Data Remediation team to strengthen regulatory reporting for mortgage data. Conducted deep-dive analyses to uncover reporting deficiencies, identified systemic root causes, and designed actionable remediation strategies. Partnered closely with Internal Audit to validate compliance and elevate governance standards. Leveraged SAS and Excel to build robust data profiles, enhancing the accuracy and transparency of the end-to-end data lifecycle. Designed and delivered executive-level business intelligence dashboards in Power BI and Tableau, providing actionable insights, uncovering trends, and enabling data-driven decision-making at the leadership level. This project not only improved regulatory compliance but also laid the foundation for a stronger, more resilient data ecosystem.
 
@@ -25,7 +25,7 @@ Led data stewards and custodians in maintaining data dictionaries and lineages f
 Played severals roles such as Business Analyst, Project Manager, Architect, SME, Scrum Master, Product Owner & Software Developer in Full Systems Development Lifecycle for over 95 projects.
 Over 12 years of progressive experience from developer to leadership roles, partnering with senior business leaders to translate requirements into effective solutions. Skilled in stakeholder management, requirements analysis, FSD/TSD documentation, test planning, resource management, Agile delivery and Production support. Proven track record of leading cross-functional teams delivering high-quality software aligned with business vision.
 
-### ML/AI Projects
+## ML/AI Projects
 **INN Hotels:** Reduced revenue loss due to hotel room booking cancellations. Analyzed INN Hotels booking data to identify key factors driving cancellations, built predictive models to forecast hotel room cancellations in advance, and provided insights to support profitable policies for refunds and cancellations.
 **Github Code base:** https://manojmenon1.github.io/Hotel-Room-Booking-Cancellation-Prediction-Modeling/
 
