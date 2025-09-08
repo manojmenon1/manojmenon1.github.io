@@ -4,6 +4,14 @@
 Master of Science in Computer Science, GPA 3.9/4.0, Southern University and A&M College, Louisiana | 2004
 Bachelor of Technology in Mechanical Engineering, First Class (3.2/4.0), NSS College of Eng., University of Calicut | 1997
 
+### Certification Courses
+Post Graduate Program in Data Science and Business Analytics, University of Texas at Austin (2023) (grade A+) 
+https://www.mygreatlearning.com/certificate/XRVEMVHP
+https://la.utexas.edu/texasexeced/digitalVerification.html?key=tRMmf
+
+Microsoft AI Professional Program (AI to Open AI), Great Learning (February 2025) 
+https://www.mygreatlearning.com/certificate/NAYGKQMO
+
 ### Work Experience
 **Senior Data Management Analyst @ Wells Fargo, Charlotte, NC (03/2019 - to present)**
 At Wells Fargo led a high-impact initiative within the Enterprise Data Remediation team to strengthen regulatory reporting for mortgage data. Conducted deep-dive analyses to uncover reporting deficiencies, identified systemic root causes, and designed actionable remediation strategies. Partnered closely with Internal Audit to validate compliance and elevate governance standards. Leveraged SAS and Excel to build robust data profiles, enhancing the accuracy and transparency of the end-to-end data lifecycle. Designed and delivered executive-level business intelligence dashboards in Power BI and Tableau, providing actionable insights, uncovering trends, and enabling data-driven decision-making at the leadership level. This project not only improved regulatory compliance but also laid the foundation for a stronger, more resilient data ecosystem.
@@ -49,4 +57,3 @@ Over 12 years of progressive experience from developer to leadership roles, part
 **Pizza Sales Analysis:** Enhance operational efficiency and boost customer satisfaction for a fictional Pizza shop. Designed and implemented data analysis solutions by pre-processing historical sales data, uncovering business trends, and developing an interactive dashboard for real-time reporting. Automated email reports to deliver key insights and alerts to stakeholders, enabling quicker decision-making, improved inventory turnover, reduced order processing times, and enhanced customer satisfaction driving higher repeat sales.
 
 **Key Skills used:** Setup AzureML, created compute cluster & Azure Data Assets and Azure environment using yaml script. Conducted EDA, Univariate & Bivariate Analysis. Power BI Dashboard and sent out email updates. Built an Analytical Pipeline.
-
