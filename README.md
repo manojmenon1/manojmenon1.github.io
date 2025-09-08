@@ -20,7 +20,7 @@ Over 12 years of progressive experience from developer to leadership roles, part
 **INN Hotels:** Reduced revenue loss due to hotel room booking cancellations. Analyzed INN Hotels booking data to identify key factors driving cancellations, built predictive models to forecast hotel room cancellations in advance, and provided insights to support profitable policies for refunds and cancellations.
 **Github Code base:** https://manojmenon1.github.io/Hotel-Room-Booking-Cancellation-Prediction-Modeling/
 
-**Key skills used: ** Performed EDA and data preprocessing, built and refined logistic regression models (Statsmodels) by addressing multicollinearity and removing insignificant variables, and interpreted results using coefficients. Developed decision tree models (scikit-learn), evaluated performance, and delivered business insights to improve profitability.
+**Key skills used:** Performed EDA and data preprocessing, built and refined logistic regression models (Statsmodels) by addressing multicollinearity and removing insignificant variables, and interpreted results using coefficients. Developed decision tree models (scikit-learn), evaluated performance, and delivered business insights to improve profitability.
 
 **Trade Ahead:** Analyzed the stocks data, grouped the stocks based on the attributes provided, and shared insights about the characteristics of each group.
 
@@ -30,7 +30,7 @@ Over 12 years of progressive experience from developer to leadership roles, part
 
 **Key skills used:** Applied up/down sampling, regularization, and hyperparameter tuning to build six classification models (Logistic Regression, Decision Trees, Random Forest, Bagging, Boosting). Selected the top three models, evaluated performance, and delivered business insights and actionable conclusions.
 
-**EasyVisa: **Analyzed visa applicant data and built predictive models to identify key factors influencing approval outcomes, enabling data-driven recommendations on applicant profiles for certification or denial.
+**EasyVisa:** Analyzed visa applicant data and built predictive models to identify key factors influencing approval outcomes, enabling data-driven recommendations on applicant profiles for certification or denial.
 
 **Key skills used:** Performed EDA and data preprocessing, built multiple classification models (Decision Tree, Bagging, Random Forest, AdaBoost, Gradient Boosting, XGBoost), and improved performance through hyperparameter tuning with GridSearchCV. Compared results, identified key features, and delivered business insights with actionable recommendations.
 
@@ -44,7 +44,7 @@ Over 12 years of progressive experience from developer to leadership roles, part
 
 **RAG Based Medical Assistant:** Developed a Retrieval-Augmented Generation (RAG)-based AI solution leveraging medical manuals as a knowledge base to assist healthcare professionals in faster, more accurate diagnoses. Delivered a proof-of-concept system that improved information retrieval efficiency, reduced diagnostic errors, and standardized care practices, ultimately enhancing patient outcomes.
 
-**Key Skills Used: **Built a Retrieval-Augmented Generation (RAG) AI solution using Python, Hugging Face Transformers, LangChain, and FAISS to integrate medical manuals into a knowledge base. Implemented vector search, prompt engineering, and document parsing pipelines for efficient information retrieval. Deployed poc with Streamlit UI, leveraging PyPDF2, Pandas, and cloud-based inference APIs to assist healthcare professionals in faster, more accurate diagnoses and standardized decision-making
+**Key Skills Used:** Built a Retrieval-Augmented Generation (RAG) AI solution using Python, Hugging Face Transformers, LangChain, and FAISS to integrate medical manuals into a knowledge base. Implemented vector search, prompt engineering, and document parsing pipelines for efficient information retrieval. Deployed poc with Streamlit UI, leveraging PyPDF2, Pandas, and cloud-based inference APIs to assist healthcare professionals in faster, more accurate diagnoses and standardized decision-making
 
 **Pizza Sales Analysis:** Enhance operational efficiency and boost customer satisfaction for a fictional Pizza shop. Designed and implemented data analysis solutions by pre-processing historical sales data, uncovering business trends, and developing an interactive dashboard for real-time reporting. Automated email reports to deliver key insights and alerts to stakeholders, enabling quicker decision-making, improved inventory turnover, reduced order processing times, and enhanced customer satisfaction driving higher repeat sales.
 
