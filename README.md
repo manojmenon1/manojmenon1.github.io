@@ -19,7 +19,7 @@ Over 12 years of progressive experience from developer to leadership roles, part
 ### ML/AI Projects
 **INN Hotels:** Reduced revenue loss due to hotel room booking cancellations. Analyzed INN Hotels booking data to identify key factors driving cancellations, built predictive models to forecast hotel room cancellations in advance, and provided insights to support profitable policies for refunds and cancellations.
 **Github Code base:** https://manojmenon1.github.io/Hotel-Room-Booking-Cancellation-Prediction-Modeling/
-**Key skills used: **Performed EDA and data preprocessing, built and refined logistic regression models (Statsmodels) by addressing multicollinearity and removing insignificant variables, and interpreted results using coefficients. Developed decision tree models (scikit-learn), evaluated performance, and delivered business insights to improve profitability.
+**Key skills used: ** Performed EDA and data preprocessing, built and refined logistic regression models (Statsmodels) by addressing multicollinearity and removing insignificant variables, and interpreted results using coefficients. Developed decision tree models (scikit-learn), evaluated performance, and delivered business insights to improve profitability.
 
 **Trade Ahead:** Analyzed the stocks data, grouped the stocks based on the attributes provided, and shared insights about the characteristics of each group.
 **Key skills used:** Performed exploratory data analysis (EDA) using Python (Pandas, NumPy, Matplotlib, Seaborn) and applied unsupervised learning techniques with scikit-learn, including K-Means, Hierarchical Clustering, and Cluster Profiling, to uncover hidden patterns and business insights.
