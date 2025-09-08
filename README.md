@@ -2,6 +2,7 @@
 
 ### Education
 **Master of Science in Computer Science**, GPA 3.9/4.0, Southern University and A&M College, Louisiana | 2004
+
 **Bachelor of Technology in Mechanical Engineering**, First Class (3.2/4.0), NSS College of Eng., University of Calicut | 1997
 
 ### Certification Courses
