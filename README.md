@@ -1,4 +1,4 @@
-# Machine Learning Engineer
+# Senior Data Management Analyst / Machine Learning Engineer
 
 ### Education
 Master of Science in Computer Science, GPA 3.9/4.0, Southern University and A&M College, Louisiana | 2004
